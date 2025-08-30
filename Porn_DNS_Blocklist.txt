@@ -1,4 +1,4 @@
-# AdGuard Home Porn DNS Blocklist
+# AdGuard Home News DNS Blocklist
 # Each line is a domain you want to block
 # You can add more domains below
 
