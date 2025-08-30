@@ -1,1 +1,30 @@
+# AdGuard Home Porn DNS Blocklist
+# Each line is a domain you want to block
+# You can add more domains below
 
+||protothema.gr^
+||newsit.gr^
+||iefimerida.gr^
+||in.gr^
+||newsbomb.gr^
+||news247.gr^
+||zougla.gr^
+
+||kathimerini.gr^
+||tanea.gr^
+||tovima.gr^
+||naftemporiki.gr^
+||ethnos.gr^
+
+||sport24.gr^
+||gazzetta.gr^
+||sdna.gr^
+||sport-fm.gr^
+||to10.gr^
+
+||enikos.gr^
+||cnn.gr^
+||dnews.gr^
+
+# Add more domains above if needed with the following example below
+||example.gr^
