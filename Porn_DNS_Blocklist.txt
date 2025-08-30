@@ -7,6 +7,7 @@
 ||xnxx.com^
 ||redtube.com^
 ||xhamster.com^
+||xhamster2.com^
 ||brazzers.com^
 ||youporn.com^
 ||youjizz.com^
@@ -35,5 +36,22 @@
 ||spankwire.com^
 ||porntube.com^
 ||empflix.com^
+||fuq.com^
+||pornhat.com^
+||redporn.porn^
+||tubepleasure.com^
+||bang.com^
+||naughtyamerica.com^
+||bellesa.co^
+||4tube.co^
+||tiava.tv^
+||txxx.com^
+||vivid.com^
+||pornworld.com^
+||hello.porn^
+||porntv.com^
+||xgroovy.com^
+||theporndude.com^
 
-# Add more domains below if needed
+# Add more domains above if needed with the following example below
+||example.gr^
