@@ -1,0 +1,39 @@
+# AdGuard Home Porn DNS Blocklist
+# Each line is a domain you want to block
+# You can add more domains below
+
+||pornhub.com^
+||xvideos.com^
+||xnxx.com^
+||redtube.com^
+||xhamster.com^
+||brazzers.com^
+||youporn.com^
+||youjizz.com^
+||xtube.com^
+||spankbang.com^
+||beeg.com^
+||porn.com^
+||tnaflix.com^
+||motherless.com^
+||hclips.com^
+||porndoe.com^
+||drtuber.com^
+||efukt.com^
+||porntrex.com^
+||yespornplease.com^
+||pornhd.com^
+||fapdu.com^
+||tubegalore.com^
+||pornburst.xxx^
+||bangbros.com^
+||camsoda.com^
+||myfreecams.com^
+||livejasmin.com^
+||chaturbate.com^
+||tube8.com^
+||spankwire.com^
+||porntube.com^
+||empflix.com^
+
+# Add more domains below if needed
